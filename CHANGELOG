@@ -1,0 +1,17 @@
++----------------------------------------------
++ HelpPlusPlus (Help++)
++----------------------------------------------
+
+Changelog
+-----------------------------------------------
+
+v0.3 (WIP-version)
+* integrated and adapted commandManager developed by t3hk0d3
+* redesigned command structure
+* redesigned internal class structure
+* got rid of many statics
+* rewrote FontWidthCalculator
+* MCFontUtils can now handle all ASCII chars
+* moved many methods to API (callable via getCoreManager())
+* applied GPL to project (named all references and authors)
+* changed namespace

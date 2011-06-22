@@ -1,0 +1,16 @@
+name: HelpPlusPlus
+version: 0.3
+main: de.luricos.bukkit.HelpPlusPlus.bukkit.HelpPlusPlus
+authors: [tkelly910 (original version), jascotty2 (modified), lycano (remake)]
+commands:
+  help:
+    description: Your friendly /help menu
+    usage: |
+      /<command> - List help commands
+      /<command> more [pagenumber] - Displays more /help options. Optional at [pagenumber]
+      /<command> version - Display version
+      /<command> list <pagenumber> - List commands at page
+      /<command> plugins - List registered plugins
+      /<command> reload - Reload help pages
+      /<command> search <command> - Search for registered command
+      /<command> show <plugin> [pagenumber] - Show plugin commands. Optional with [pagenumber]
