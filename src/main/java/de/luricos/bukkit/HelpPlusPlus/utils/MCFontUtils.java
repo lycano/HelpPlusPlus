@@ -3,7 +3,7 @@
  * Copyright (C) 2011 lycano <https://github.com/lycano/HelpPlusPlus>
  * Original Credit & Copyright (C) 2011 tkelly910 <https://github.com/tkelly910/Help>
  * 
- * HelpPlusPlus is free software; you can redistribute it and/or
+ * This program is free software; you can redistribute it and/or
  * modify it under the terms of the GNU General Public License
  * as published by the Free Software Foundation; either version 2
  * of the License, or (at your option) any later version.
@@ -28,7 +28,7 @@ import java.util.ArrayList;
  * @author lycano
  */
 public class MCFontUtils {
-    private static int chatBoxWidth = 318; // as we calculate with charMargin fontWidths (53 chars à (5+charMargin)px = 318px)
+    private static int chatBoxWidth = 318; // as we calculate with charMargin fontWidths (53 chars ÃƒÂ  (5+charMargin)px = 318px)
     private static int chatBoxHalfWidth = 133;
     private static int charMargin = 1;
     private static int defaultCharWidth = 5;
