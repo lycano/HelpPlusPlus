@@ -28,7 +28,7 @@ import java.util.ArrayList;
  * @author lycano
  */
 public class MCFontUtils {
-    private static int chatBoxWidth = 318; // as we calculate with charMargin fontWidths (53 chars ÃƒÂ  (5+charMargin)px = 318px)
+    private static int chatBoxWidth = 318; // as we calculate with charMargin fontWidths (53 chars * (5+charMargin)px = 318px)
     private static int chatBoxHalfWidth = 133;
     private static int charMargin = 1;
     private static int defaultCharWidth = 5;
